@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[1492],{1492:function(e,o,s){e.exports=s.p+"static/media/BusWarIcon.9241ec1d8273ed137ac8.png"}}]);

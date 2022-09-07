@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8129],{8129:function(e,o,s){e.exports=s.p+"static/media/HalfTrackOffensiveWarVehicleIcon.d2c9e0960a21db2098ee.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[5440],{5440:function(e,o,a){e.exports=a.p+"static/media/FieldAntiTankWarVehicleIcon.bbfb58a2d1ecaf6abb06.png"}}]);

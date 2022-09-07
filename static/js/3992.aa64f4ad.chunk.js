@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[3992],{3992:function(e,o,s){e.exports=s.p+"static/media/GrenadeLauncherCItemIcon.1e64b6805ff7f730de59.png"}}]);

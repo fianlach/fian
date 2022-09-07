@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[6648],{6648:function(e,o,s){e.exports=s.p+"static/media/BunkerSuppliesIcon.0aad262a5e7f24df1b22.png"}}]);

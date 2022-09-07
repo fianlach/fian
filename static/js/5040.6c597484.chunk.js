@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[5040],{5040:function(e,o,l){e.exports=l.p+"static/media/ColonialRelicMediumTankVehicleIcon.fa79d7d52f0e33afc6e6.png"}}]);

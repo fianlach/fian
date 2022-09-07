@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8294],{8294:function(o,e,s){o.exports=s.p+"static/media/SnowUniformCIcon.dd6bd6197279dd20d55d.png"}}]);

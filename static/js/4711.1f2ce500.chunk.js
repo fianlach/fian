@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[4711],{4711:function(o,e,s){o.exports=s.p+"static/media/AdvancedConstructionIcon.8ffd7e446143588150a8.png"}}]);

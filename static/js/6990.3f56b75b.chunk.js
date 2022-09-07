@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[6990],{6990:function(o,e,s){o.exports=s.p+"static/media/ArtilleryIcon.afdbdba85af19d1540cd.png"}}]);

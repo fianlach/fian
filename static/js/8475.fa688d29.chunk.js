@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8475],{8475:function(e,o,l){e.exports=l.p+"static/media/HalfTrackColHeavyArmorVehicleIcon.56bd2418a28de0b148de.png"}}]);

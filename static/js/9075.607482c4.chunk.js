@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[9075],{9075:function(e,o,f){e.exports=f.p+"static/media/RifleCItemIcon.3ef33f05d922f0db52cd.png"}}]);

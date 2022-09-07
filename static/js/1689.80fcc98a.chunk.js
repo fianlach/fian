@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[1689],{1689:function(e,o,c){e.exports=c.p+"static/media/DestroyerTankWVehicleIcon.04f6a2a60ce0c5c6ff8c.png"}}]);

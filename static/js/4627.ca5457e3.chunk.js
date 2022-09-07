@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[4627],{4627:function(e,o,s){e.exports=s.p+"static/media/MediumTank2RangeWIcon.0f475b7355c56447a5bc.png"}}]);

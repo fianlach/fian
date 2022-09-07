@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[901],{901:function(o,e,c){o.exports=c.p+"static/media/ConstructionVehicleIcon.00017345cd26ba19c6a9.png"}}]);

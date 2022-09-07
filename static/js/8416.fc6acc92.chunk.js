@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8416],{8416:function(e,o,s){e.exports=s.p+"static/media/EmplacedMGIcon.f5f725e838ca627d2edd.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[7874],{7874:function(o,e,s){o.exports=s.p+"static/media/ResouceIronIcon.307b897a00b778dea514.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8271],{8271:function(e,o,s){e.exports=s.p+"static/media/ComponentsIcon.3de2fde0e5cf43421193.png"}}]);

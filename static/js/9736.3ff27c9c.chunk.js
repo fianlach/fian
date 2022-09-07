@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[9736],{9736:function(o,e,t){o.exports=t.p+"static/media/Motorboat.a6e682a3414d28cbcf98.png"}}]);

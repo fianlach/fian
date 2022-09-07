@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8735],{8735:function(e,o,s){e.exports=s.p+"static/media/CriticallyWoundedIcon.2e7725799ae16ab2bf82.png"}}]);

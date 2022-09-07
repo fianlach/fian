@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[1855],{1855:function(e,o,s){e.exports=s.p+"static/media/FieldMortarWIcon.0c0251a36e79f9ed8665.png"}}]);

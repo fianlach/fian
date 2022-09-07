@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[6183],{6183:function(e,o,s){e.exports=s.p+"static/media/HeavyArtilleryCIcon.2af8cc54411da07e1fe7.png"}}]);

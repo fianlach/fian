@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[5492],{5492:function(e,o,s){e.exports=s.p+"static/media/FieldMachineGunWar.543d6d6009f70f464cdd.png"}}]);

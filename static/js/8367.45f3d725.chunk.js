@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8367],{8367:function(e,c,o){e.exports=o.p+"static/media/FlatbedTruckVehicleIcon.3c99cc871f55b3ffbeb6.png"}}]);

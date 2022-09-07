@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[4378],{4378:function(e,o,s){e.exports=s.p+"static/media/RelicLightTankVehicleIcon.93202e844934696be176.png"}}]);

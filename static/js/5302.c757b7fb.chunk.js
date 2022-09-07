@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[5302],{5302:function(o,e,s){o.exports=s.p+"static/media/TankUniformWIcon.fc620a99047e953fb2ac.png"}}]);

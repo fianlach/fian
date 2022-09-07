@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[7030],{7030:function(e,o,t){e.exports=t.p+"static/media/BattleTank.bfd76408a52bbee49b37.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[7787],{7787:function(o,e,s){o.exports=s.p+"static/media/GarrisonSuppliesIcon.21b4c9154bbbc527d1eb.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[2360],{2360:function(e,o,t){e.exports=t.p+"static/media/LightTankArtilleryWar.6c32adf5359070a30096.png"}}]);

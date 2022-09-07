@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[992],{992:function(e,o,s){e.exports=s.p+"static/media/BasicMaterialsIcon.341debdd0a0369fbead1.png"}}]);

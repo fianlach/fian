@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[2408],{2408:function(o,e,t){o.exports=t.p+"static/media/ShippingContainerShortIcon.bd9d224ba7760e54052d.png"}}]);

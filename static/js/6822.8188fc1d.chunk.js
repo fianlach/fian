@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[6822],{6822:function(e,o,c){e.exports=c.p+"static/media/MotorcycleOffensiveVehicleIcon.bca7ffc59875877dcf2e.png"}}]);

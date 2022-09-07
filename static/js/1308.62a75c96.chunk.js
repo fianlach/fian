@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[1308],{1308:function(o,e,t){o.exports=t.p+"static/media/LightTankColMobilityVehicleIcon.dcafafad47de68108469.png"}}]);

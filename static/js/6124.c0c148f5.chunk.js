@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[6124],{6124:function(e,o,f){e.exports=f.p+"static/media/TruckOffensiveVehicleIcon.8081b5fb4fb487db6fee.png"}}]);

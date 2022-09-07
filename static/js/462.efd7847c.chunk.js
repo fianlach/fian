@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[462],{462:function(e,o,t){e.exports=t.p+"static/media/AntiTankMineItemIcon.0b881c738c55873cd78b.png"}}]);

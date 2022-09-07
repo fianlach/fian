@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[9590],{9590:function(e,o,c){e.exports=c.p+"static/media/ATRifleTCIcon.7ec77a44063daac5cced.png"}}]);

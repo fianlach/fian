@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[385],{385:function(e,o,s){e.exports=s.p+"static/media/ArmoredCarTwinCItemIcon.ffa4e21dd948e69715bd.png"}}]);

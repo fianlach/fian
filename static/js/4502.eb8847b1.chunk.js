@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[4502],{4502:function(e,o,c){e.exports=c.p+"static/media/RelicTruckVehicleIcon.aba7fff1070fddb2b741.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[5680],{5680:function(o,e,s){o.exports=s.p+"static/media/Wall-T1Icon.815402933c383dadddf5.png"}}]);

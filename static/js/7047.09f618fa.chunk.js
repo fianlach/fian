@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[7047],{7047:function(e,o,s){e.exports=s.p+"static/media/WardenMediumTankIcon.ca3e1d6518ca64025642.png"}}]);

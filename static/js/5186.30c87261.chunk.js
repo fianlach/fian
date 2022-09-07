@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[5186],{5186:function(e,o,c){e.exports=c.p+"static/media/ResourceContainerIcon.6b72f5b3be5dc2d20bcc.png"}}]);

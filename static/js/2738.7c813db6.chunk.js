@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[2738],{2738:function(e,o,c){e.exports=c.p+"static/media/MortarTankWarVehicleIcon.cc3d316e8ab6dbd50d67.png"}}]);

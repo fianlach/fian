@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[511],{511:function(e,o,c){e.exports=c.p+"static/media/FieldArtilleryColVehicleIcon.a495c25fc438c42858fc.png"}}]);

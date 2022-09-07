@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8427],{8427:function(e,o,c){e.exports=c.p+"static/media/RelicApc.d60406c1612ff228c055.png"}}]);

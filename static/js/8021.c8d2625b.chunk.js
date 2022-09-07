@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8021],{8021:function(o,e,s){o.exports=s.p+"static/media/OilTankerIcon.8d480c22200643f94204.png"}}]);

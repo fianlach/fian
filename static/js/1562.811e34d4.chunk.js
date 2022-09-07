@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[1562],{1562:function(e,o,c){e.exports=c.p+"static/media/RelicArmouredCarVehicleIcon.aadd9e5c7e45143fdbf0.png"}}]);

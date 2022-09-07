@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[5073],{5073:function(o,e,s){o.exports=s.p+"static/media/MedicUniformCIcon.dab0fb53bb9b46533d0b.png"}}]);

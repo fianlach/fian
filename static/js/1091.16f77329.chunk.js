@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[1091],{1091:function(e,o,s){e.exports=s.p+"static/media/Ambulance.cabbe9ca1f679da9917b.png"}}]);

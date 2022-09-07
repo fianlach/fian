@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8430],{8430:function(o,e,s){o.exports=s.p+"static/media/SoldierUniformCIcon.30cca9ae807b6b71027a.png"}}]);

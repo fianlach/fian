@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[4126],{4126:function(e,o,f){e.exports=f.p+"static/media/ScoutVehicleWar.7f194ef2bb7844fa3f9f.png"}}]);

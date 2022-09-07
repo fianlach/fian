@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[6876],{6876:function(e,o,s){e.exports=s.p+"static/media/BargeVehicleIcon.0530b07084178fe0408d.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[9942],{9942:function(e,o,s){e.exports=s.p+"static/media/ResourceCopperIcon.de6f7f70c60391786102.png"}}]);

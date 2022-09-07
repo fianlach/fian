@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[9910],{9910:function(o,e,f){o.exports=f.p+"static/media/ClothItemIcon.1f3cd45d4ffd5b36fef8.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8684],{8684:function(e,o,s){e.exports=s.p+"static/media/MediumTank2CIcon.6e071e1571fb2206e67d.png"}}]);

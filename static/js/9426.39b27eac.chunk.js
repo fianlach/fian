@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[9426],{9426:function(c,o,e){c.exports=e.p+"static/media/HalfTrackArtilleryCIcon.dcc36adcf78a294cb3fd.png"}}]);

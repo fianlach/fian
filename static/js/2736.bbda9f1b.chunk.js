@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[2736],{2736:function(e,o,c){e.exports=c.p+"static/media/MGCItemIcon.0111ebafc4a99cdc2bc9.png"}}]);

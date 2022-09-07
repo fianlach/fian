@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8228],{8228:function(o,e,s){o.exports=s.p+"static/media/ArmourUniformC.3cc6014895fb8f5cb7be.png"}}]);

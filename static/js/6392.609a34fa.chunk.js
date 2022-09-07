@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[6392],{6392:function(e,o,l){e.exports=l.p+"static/media/GunboatWarDoubleArtilleryVehicleIcon.557cf67e9c4d457daa84.png"}}]);

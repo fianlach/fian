@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[2273],{2273:function(o,e,s){o.exports=s.p+"static/media/TroopShipVehicleIcon.fa1bc1144d8456598bf6.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8223],{8223:function(e,o,s){e.exports=s.p+"static/media/LandingCraftOffensiveVehicleIcon.a0219e261a5492ac3d83.png"}}]);

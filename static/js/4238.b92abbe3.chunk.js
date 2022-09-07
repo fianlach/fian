@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[4238],{4238:function(e,o,s){e.exports=s.p+"static/media/CivicMaterialsIcon.5d2aa2d92e8b5a4c1e8d.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[90],{90:function(o,e,s){o.exports=s.p+"static/media/AmmoUniformWIcon.0759b2c141473ba95dbf.png"}}]);

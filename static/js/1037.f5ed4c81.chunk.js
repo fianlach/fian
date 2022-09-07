@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[1037],{1037:function(o,e,f){o.exports=f.p+"static/media/TankUniformCIcon.f2e6b8adf94a307c324f.png"}}]);

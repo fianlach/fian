@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8220],{8220:function(e,o,s){e.exports=s.p+"static/media/SMGCItemIcon.4dbebdb3bfc8d1352acd.png"}}]);

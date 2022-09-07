@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8137],{8137:function(e,o,n){e.exports=n.p+"static/media/FieldCannonOffensiveWIcon.1ac81de50390a3d4d041.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[5823],{5823:function(o,e,s){o.exports=s.p+"static/media/OfficerUniformWIcon.814abd1b911eb08da6c4.png"}}]);

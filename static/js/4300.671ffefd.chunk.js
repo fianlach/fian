@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[4300],{4300:function(e,o,s){e.exports=s.p+"static/media/ConcreteMixerIcon.f2f67b832eb3d72a0d81.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[3506],{3506:function(e,o,c){e.exports=c.p+"static/media/CraneVehicleIcon.c99b11e88ace964e43b6.png"}}]);

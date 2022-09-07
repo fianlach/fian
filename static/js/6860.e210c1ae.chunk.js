@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[6860],{6860:function(e,o,s){e.exports=s.p+"static/media/TanketteOffensiveCVehicleIcon.eb91fe8da497745dcad2.png"}}]);

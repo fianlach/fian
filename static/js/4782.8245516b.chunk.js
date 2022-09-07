@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[4782],{4782:function(e,o,s){e.exports=s.p+"static/media/RifleW.4ce22bc9eaed331964b6.png"}}]);

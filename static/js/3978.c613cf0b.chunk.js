@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[3978],{3978:function(e,o,s){e.exports=s.p+"static/media/LightTankOffensiveCVehicleIcon.9f9728eae5fd77a8c409.png"}}]);

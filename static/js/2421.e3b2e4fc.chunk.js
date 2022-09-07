@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[2421],{2421:function(c,e,o){c.exports=o.p+"static/media/ScoutVehicleAmphibiousWarVehicleIcon.86c945c3acc0261ddf8d.png"}}]);

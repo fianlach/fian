@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[6740],{6740:function(e,o,c){e.exports=c.p+"static/media/FieldCannonWVehicleIcon.cd58afd180d9c8e800d0.png"}}]);

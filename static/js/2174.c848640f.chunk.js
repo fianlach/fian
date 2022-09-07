@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[2174],{2174:function(o,e,s){o.exports=s.p+"static/media/WoundedIcon.d86a7cb92066366aaa47.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[8064],{8064:function(o,e,s){o.exports=s.p+"static/media/ResouceAluminumIcon.a282fd3bcf39dca86390.png"}}]);

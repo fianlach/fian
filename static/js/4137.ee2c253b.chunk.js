@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoxhole_tools=self.webpackChunkfoxhole_tools||[]).push([[4137],{4137:function(e,o,s){e.exports=s.p+"static/media/EmplacedHowitzerIcon.ae734f9382fb41d7aac7.png"}}]);
